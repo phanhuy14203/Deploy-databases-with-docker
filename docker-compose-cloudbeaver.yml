@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    container_name: cloudbeaver
+    ports:
+      - "8080:8978"  # Thay đổi ở đây
+    volumes:
+      - /data/cloudbeaver/:/opt/cloudbeaver/workspace
+    restart: always
