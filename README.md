@@ -1,0 +1,1 @@
+![CloudBeaver Dashboard](dashboadCloudbeaver.jpg)
