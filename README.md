@@ -8,4 +8,6 @@
 | Database | Username |
 |----------|----------|
 |PostgreSQL| postgres |
+|MariaDB   | root     |
+|SQLserver | sa       |
 
